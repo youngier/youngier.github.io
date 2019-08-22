@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-13T12:17:11.164Z</updated>
+  <updated>2019-08-22T11:28:43.412Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Android框架集锦</title>
+    <link href="http://yoursite.com/2019/08/20/Android%E6%A1%86%E6%9E%B6%E9%9B%86%E9%94%A6/"/>
+    <id>http://yoursite.com/2019/08/20/Android框架集锦/</id>
+    <published>2019-08-20T11:48:39.000Z</published>
+    <updated>2019-08-22T11:28:43.412Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近工作刚好没那么忙，加上感觉自己的Android知识点需要沉淀，开始决定写起博客啦～哈哈哈。</p><p>这篇博客主要是用来收集Android开发中经常会用到或者一些比较有意思的控件或者框架。其实也是为了我自己在平时工作中方便查找这些控件跟框架。尽可能地，我也会对其中比较流行的框架的实现原理进行深入了解，说不定也来篇博文啥的哈哈哈～</p><p>话不多说，直接上内容吧～</p><table><thead><tr><th align="center">类别</th><th align="center">名称</th><th align="center">简介</th><th align="center">地址</th></tr></thead><tbody><tr><td align="center">开发模式</td><td align="center">MVC</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center">MVP</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center">MVVM</td><td align="center"></td><td align="center"></td></tr><tr><td align="center">网络框架</td><td align="center">AsyncHttpClient</td><td align="center">异步处理Http请求</td><td align="center"></td></tr><tr><td align="center"></td><td align="center">Volley</td><td align="center">适用数据量不大但是通信频繁的网络通信库</td><td align="center"></td></tr><tr><td align="center"></td><td align="center">OkHttp</td><td align="center">高效好用，时下Android最流行的轻量级网络框架</td><td align="center"></td></tr><tr><td align="center"></td><td align="center">Retrofit</td><td align="center"></td><td align="center"></td></tr><tr><td align="center">图片加载器</td><td align="center">ImageLoader</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center">Picasso</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center">Fresco</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center">Glide</td><td align="center"></td><td align="center"></td></tr><tr><td align="center">json解析框架</td><td align="center">Gson</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center">JackJson</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center">FastJson</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center">LoganSquare</td><td align="center"></td><td align="center"></td></tr><tr><td align="center">orm框架</td><td align="center">ORMLite</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center">SugarORM</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center">GreenDao</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center">Active Android</td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center">Realm</td><td align="center"></td><td align="center"></td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最近工作刚好没那么忙，加上感觉自己的Android知识点需要沉淀，开始决定写起博客啦～哈哈哈。&lt;/p&gt;
+&lt;p&gt;这篇博客主要是用来收集Android开发中经常会用到或者一些比较有意思的控件或者框架。其实也是为了我自己在平时工作中方便查找这些控件跟框架。尽可能地，我也会对其中比
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
